@@ -1,7 +1,7 @@
 ---
 title: 'Hello world: how I built this site'
-abstract: I originally built this portfolio site back in 2018, and since then it's evolved quite a bit. Recently I migrated from Create React App to Next.js and made some major upgrades in the process.
-date: '2022-04-21'
+abstract: I was built this portfolio site back in the earlier month of 2024, and since then it's evolved quite a bit. Recently I migrated from Create React App to Next.js and made some major upgrades in the process.
+date: '2024-04-21'
 banner: /static/hello-world-banner.jpg
 ---
 
@@ -49,7 +49,7 @@ It's been pretty neat to see how popular the site's been on Github, with 500 sta
 
 I look forward to continuing to use this site as a playground, and it'll be interesting to compare the next iteration to where it is today.
 
-## Update: Feb 2024
+## Update: Nov 2024
 
 I recently migrated the site to Remix now that they've got good support for CSS modules meaning I didn't need to convert all of my styling. It was mostly a process of deleting all of the hacks mentioned above in this post, and things just work and feel more "web standard". I'm now using the [CSS view transitions API](https://developer.mozilla.org/en-US/docs/Web/API/View_Transitions_API) to handle smoothly crossfading on route transitions, which is a feature baked into React Router (and as a result Remix). I don't need to do weird javascript hacks to try and set the correct theme (which still inevitably led to a flash of unthemed content) - I'm now storing the preferred theme in a session cookie which Remix makes really easy to do.
 
