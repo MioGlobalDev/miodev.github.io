@@ -1,0 +1,29 @@
+
+DESIGNER | デザイナー
+
+Mio Chibana
+Hand crafted design & web development
+
+Design tools:
+Photoshop
+Blender
+
+twitter.com/nonoko_4649
+github.com/MioGlobalDev
+
+_______________________________________________________________________________
+
+TECHNOLOGY | テクノロジー
+
+React
+Remix
+Three.js
+Framer Motion
+
+_______________________________________________________________________________
+
+FONTS | フォント
+
+Gotham
+IPA Gothic Regular
+Hiragino Kaku Gothic W8
