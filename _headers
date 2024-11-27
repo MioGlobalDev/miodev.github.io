@@ -1,0 +1,4 @@
+/assets/*.js  Content-Type: application/javascript
+/assets/*.woff2  Content-Type: application/font-woff2
+
+/*  Access-Control-Allow-Origin: *
